@@ -56,12 +56,13 @@ navs:
     label: Home
 
   -
-    href: /open-source.html
-    label: Open-Source
+    href: http://www.zhihu.com/people/hyking
+    label: Zhihu
+    target: _blank
 
 
   -
-    href: http://weibo.com/44294631
+    href: http://weibo.com/1783351805
     label: Weibo
     target: _blank
 
