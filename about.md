@@ -4,43 +4,22 @@ title: 关于
 menu: About
 ---
 
-安正超
+吴海金
 ===
-男 90后
+男 
 
 ## 概况
 
-- 邮箱：anzhengchao#gmail.com
-- 主页：[http://overtrue.me](http://overtrue.me)
-- 微博：[@安正超](http://weibo.com/joychaocc)
+- 邮箱：wuhaijin@outlook.com
+- 主页：[http://likedew.com](http://likedew.com)
+- 微博：[@吴海金](http://weibo.com/dream100fly)
 
-计算机专业毕业，3年在职工作经验，5年PHP开发经验。
+晒学网创办人，韩信手机商城创办人，产品经理。
 
 ## 教育
-- 大连工业大学网络技术专业 — 大专 2009 - 2012
-- 东北财经大学公司管理专业 — 本科 2009 - 2012 （自考）
+- 中南大学
 
-## 技能
-- Laravel贡献者;
-- 可独立完成前端/后端项目开发并部署；
-- 精通PHP开发，熟悉常用设计模式与框架，曾自己编写框架并完成线上项目;
-- 有较强的前端开发能力，对HTML，CSS的使用有多年实践经验；
-- 熟悉javascript与服务器端Nodejs，熟悉Express等框架的使用;
-- 热爱开源，关注新技术，GitHub忠实爱好者，关注优秀开源项目的源码;
-- 熟练掌握SVN，Git等版本控制系统；
-- 具有较强的沟通能力，曾担任团队间沟通出口，擅长文档编写；
-- 良好的代码规范，代码洁癖重度患者；
-- 较强的快速学习能力，熟练阅读英文文档，热爱Stackoverflow；
-- 熟练使用Linux与Mac OS(OSX)操作系统；
-- 熟练使用Sublime Text，OmniGaffale(Mac平台下)等工具。
+## 其他
+目前在国内领先的智能硬件创新创业平台硬蛋。
 
-### 综合技能
 
-| 名称 | 熟悉程度
-|--:|:--|
-| PHP | ★★★★★ |
-| javascript | ★★★★☆ |
-| Nodejs | ★★★★☆ |
-| Markdown | ★★★★★ |
-| C | ★★★☆☆ |
-| Photoshop | ★★★★☆ |
