@@ -41,10 +41,10 @@ gems:
   - jekyll-sitemap
 
 disqus:
-  id: overtrueme
+  id: likedew
 
 google:
-    analytics_id: UA-55452630-1
+    analytics_id: UA-62566206-1
 
 timezone:    PRC
 encoding:    UTF-8
