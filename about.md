@@ -13,7 +13,8 @@ menu: About
 - 主页：[likedew.com][1]
 - 微博：[@吴海金][2]
 - 微信：hykingwu
-- 知乎：![][image-1]
+- 知乎：[!\[alt text]()([http://path/to/img.jpg][4] “吴海金_知乎主页_”)]([你的链接地址][5])
+
 
 > 晒学网创办人，韩信手机商城创办人，产品经理
 
@@ -26,5 +27,5 @@ menu: About
 
 [1]:	http://likedew.com
 [2]:	http://weibo.com/dream100fly
-
-[image-1]:	https://raw.githubusercontent.com/hyking/hyking.github.io/master/assets/images/zhihu_F_icon.svg
+[4]:	https://raw.githubusercontent.com/hyking/hyking.github.io/master/assets/images/zhihu_F_icon.png
+[5]:	http://www.zhihu.com/people/hyking
