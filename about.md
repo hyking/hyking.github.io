@@ -11,8 +11,7 @@ menu: About
 
 - 邮箱：wuhaijin@outlook.com
 - 主页：[likedew.com][1]
-- 微博：[@吴海金][2]
-- 知乎：[吴海金][3]
+- 社交网络：[微博][2] [知乎][3]  
 - 微信：hykingwu
 
 
