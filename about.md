@@ -12,7 +12,7 @@ menu: About
 - 邮箱：wuhaijin@outlook.com
 - 主页：[likedew.com][1]
 - 微博：[@吴海金][2]
-- 知乎：[吴海金]（http://www.zhihu.com/people/hyking target="_blank"）
+- 知乎：[吴海金]（http://www.zhihu.com/people/hyking）
 - 微信：hykingwu
 
 
