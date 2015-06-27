@@ -12,8 +12,8 @@ menu: About
 - 邮箱：wuhaijin@outlook.com
 - 主页：[likedew.com][1]
 - 微博：[@吴海金][2]
+- 知乎：[吴海金]（http://www.zhihu.com/people/hyking _target）
 - 微信：hykingwu
-- 知乎：[![alt text](https://raw.githubusercontent.com/hyking/hyking.github.io/master/assets/images/zhihu_F_icon.png "吴海金_知乎主页")](http://www.zhihu.com/people/hyking)
 
 
 > 晒学网创办人，韩信手机商城创办人，产品经理
