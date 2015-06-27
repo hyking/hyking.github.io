@@ -12,7 +12,7 @@ menu: About
 - 邮箱：wuhaijin@outlook.com
 - 主页：[likedew.com][1]
 - 微博：[@吴海金][2]
-- 知乎：[吴海金]（http://www.zhihu.com/people/hyking）
+- 知乎：[吴海金][3]
 - 微信：hykingwu
 
 
@@ -27,6 +27,4 @@ menu: About
 
 [1]:	http://likedew.com
 [2]:	http://weibo.com/dream100fly
-[4]:	https://raw.githubusercontent.com/hyking/hyking.github.io/master/assets/images/zhihu_F_icon.png
-[5]:	http://www.zhihu.com/people/hyking
-
+[3]:	http://www.zhihu.com/people/hyking
