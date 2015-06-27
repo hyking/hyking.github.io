@@ -54,17 +54,17 @@ navs:
   -
     href: /
     label: Home
-
+/*
   -
     href: http://www.zhihu.com/people/hyking
     label: Zhihu
     target: _blank
 
-
   -
     href: http://weibo.com/1783351805
     label: Weibo
     target: _blank
+*/
 
   -
     href: /about
