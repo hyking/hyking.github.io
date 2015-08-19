@@ -39,4 +39,4 @@ menu: About
 [3]:	http://www.zhihu.com/people/haijin
 [4]:	https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh
 
-[image-1]:	https://raw.githubusercontent.com/hyking/hyking.github.io/master/assets/images/qrcode_for_gh_70dd54811ec5_258.jpg
+[image-1]:	https://raw.githubusercontent.com/hyking/hyking.github.io/master/assets/images/qrcode_for_gh_70dd54811ec5_258.png
