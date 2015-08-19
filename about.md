@@ -12,7 +12,10 @@ menu: About
 - 邮箱：wuhaijin@outlook.com
 - 主页：[likedew.com][1]
 - 社交网络：  [微博][2]   [知乎][3]  
-- 微信：hykingwu
+- 个人微信：hykingwu
+- 公众号：likeDew
+![][image-1]
+
 
 ---- 
 - 目前供职于国内领先的智能硬件创新创业平台硬蛋   `2014至今`
@@ -24,7 +27,7 @@ menu: About
 - 韩信手机商城创办人，产品经理    `2012-2014`
 
 - 晒学网创办人，产品经理   `2011`
-  
+	  
 ---- 
 
 ### Copyright
@@ -33,5 +36,7 @@ menu: About
 
 [1]:	http://likedew.com
 [2]:	http://weibo.com/dream100fly
-[3]:	http://www.zhihu.com/people/hyking
+[3]:	http://www.zhihu.com/people/haijin
 [4]:	https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh
+
+[image-1]:	https://raw.githubusercontent.com/hyking/hyking.github.io/master/assets/images/qrcode_for_gh_70dd54811ec5_258.jpg
