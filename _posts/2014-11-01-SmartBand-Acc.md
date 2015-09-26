@@ -4,7 +4,7 @@ title: 智能手环首先得是个好配饰
 excerpt: 刨去科技的外衣，让设备回归最原始的功能。解决了这个问题，其他科技属性的功能才能被放大。
 ---
 
-[image-1]:	https://raw.githubusercontent.com/hyking/hyking.github.io/master/assets/images/手环拼图.png
+![][https://raw.githubusercontent.com/hyking/hyking.github.io/master/assets/images/手环拼图.png ]
 
 科技拓荒者们从互联网转移到硬件领域以后，各种智能硬件快速呈现在人们眼前，似乎万物联网就是硬件产品的发展方向了。Internet of things 确实有足够的想象空间，把所有的物都接入互联网，实现物与物、人与物的连接。举目遥望，一幅宏图。低头一看，似乎又很尴尬。
 
