@@ -18,7 +18,7 @@ menu: About
 
 
 ---- 
-- 目前供职于国内领先的智能硬件创新创业平台硬蛋   `2014至今`
+- 目前供职于国内领先的智能硬件创新创业平台硬蛋，产品经理+运营   `2014至今`
 
 - 深夜徒步发起人   `2015`
 
@@ -40,3 +40,4 @@ menu: About
 [4]:	https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh
 
 [image-1]:	https://raw.githubusercontent.com/hyking/hyking.github.io/master/assets/images/qrcode_for_gh_70dd54811ec5_258.jpg
+
