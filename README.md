@@ -1,5 +1,7 @@
 # Ed: A Jekyll Theme for Minimal Editions
 
+http://likedew.com
+
 ![Sample Ed screenshot](https://github.com/elotroalex/ed/blob/master/assets/screenshot.png)
 
 ## Introduction
