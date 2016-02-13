@@ -1,73 +1,65 @@
-# Site settings
-title: likeDew - Haijin's Blog
-name: likeDew
-email: 
-description: Haijin的产品和生活思考
-keywords: likedew,产品,硬件,吴海金,交互,移动互联网,APP,吴海金的博客,Haijin,Haijin‘s Blog,智能硬件
+# Built with Jekyll 2.5.3
+#
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink: none
 
-# permalink: /articles/:categories/:title/
-# baseurl: "" # the subpath of your site, e.g. /blog/
-# url: "http://yourdomain.com" # the base hostname & protocol for your site
-url: http://likedew.com
-baseurl:  "/"
-domain: likedew.com
-permalink:     /articles/:categories/:title/
-paginate_path: 'page:num'
-paginate:   10
-
-# Build settings
-future:      true
+# Markdown specs
 markdown: kramdown
-highlighter: pygments
+
 kramdown:
-  input: GFM
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  use_coderay: true
-coderay:
-  coderay_wrap: div
-  coderay_line_numbers: nil
-  coderay_tab_width: 4
-  coderay_bold_every: 10
-  coderay_css: class
-excerpt_separator: "\n\n"
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
 
-gems:
-  - jemoji
-  - jekyll-mentions
-  - jekyll-sitemap
+# Setup
+title:               Ed.
+tagline:             'A Jekyll theme for minimal editions'
+description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+url:                 https://github.com/elotroalex/ed
+baseurl:             '/ed'
 
-disqus:
-  id: likedew
+# About/contact
+author:
+  name:              Alex Gil
+  url:               https://twitter.com/elotroalex
+  email:             colibri.alex@gmail.com
 
-google:
-    analytics_id: UA-62566206-1
+# Custom vars
+version:             0.0.3
 
-timezone:    PRC
-encoding:    UTF-8
+# Gems
+gems: ['jekyll/scholar']
 
-# navigation
-navs:
-  -
-    href: /
-    label: Home
+# Scholar
+scholar:
+  style: modern-language-association
+  locale: en
 
-#  -
-#   href: http://www.zhihu.com/people/hyking
-#   label: Zhihu
-#   target: _blank
+  sort_by: none
+  order: ascending
 
-#  -
-#   href: http://weibo.com/1783351805
-#   label: Weibo
-#   target: _blank
+  group_by: none
+  group_order: ascending
 
-  -
-    href: /about
-    label: About
+  source: ./_bibliography
+  bibliography: references.bib
+  bibliography_template: "{{reference}}"
+  relative: "/ed/bibliography.html"
 
-popular_repos: ['pinyin', 'wechat', 'writor', 'laravel-wechat', 'laravel-lang', 'laravel-pinyin', 'latest-laravel', 'latest-lumen']
-contribute_repos: ['laravel/framework', 'tymondesigns/jwt-auth', 'caouecs/Laravel-lang']
+  replace_strings: true
+  join_strings:    true
+
+  use_raw_bibtex_entry: false
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
+

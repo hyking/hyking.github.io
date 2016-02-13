@@ -1,43 +1,27 @@
 ---
 layout: page
-title: 关于
-menu: About
+title: About
 ---
 
-吴海金
-===
+One of our most pressing and ever revolving needs as scholars is to pass on our textual artifacts from one generation to another. The art of textual editing, among other practices, has helped many cultures to remember and interpret for centuries. Alas, that art is practiced and encouraged in its highest form by a dwindling number of scholars. In a digital environment the problem is compounded by the difficulties of the medium. While vast repositories, and "e-publications" appear on the online scene yearly, very few manifest a textual scholar's disciplined attention to detail. In contrast, most textual scholars who have made the leap to a rigorous digital practice have focused on markup, relying on technical teams to deploy and maintain their work. This makes your average scholarly digital edition a very costly, and therefore limited affair. We hope that Ed can help would-be and veteran textual scholars make it easier to deploy their own editions in a lasting way.
 
-#### 概况
+Ed is a [Jekyll](https://jekyllrb.com/
+) theme designed for textual editors based on [minimal computing principles](http://go-dh.github.io/mincomp/), and focused on legibility, ease and flexibility. In other words, the technology is easier to learn or teach and can produce beautifully rendered scholarly or reading editions of texts. The resulting edition consists of static pages whose rate of decay is substantially lower than database-driven systems. As an added bonus, these static pages require less bandwith.
 
-- 邮箱：wuhaijin@outlook.com
-- 主页：[likedew.com][1]
-- 社交网络：  [微博][2]   [知乎][3]  
-- 个人微信：hykingwu
-- 公众号：likeDew
-![][image-1]
+Ed is built on top of [Lanyon](https://github.com/poole/lanyon), a Jekyll theme based on [Poole](http://getpoole.com), "the Jekyll butler," both created by [Mark Otto](<https://github.com/mdo) and distributed with an MIT license. Thanks to Mark Otto for his helpful streamlining. 
+
+## Current Features
+- Templates for narrative, drama and poetry
+- Responsive design for mobile phones, tablets and PCs.
+- Relatively easy to learn and teach
+- Works well in high- or low- bandwitdh scenarios
+- Easier for digital archives and libraries to preserve
+- Open source, open access
+- Unobtrusive footnotes
+- Works well with Zotero
+- Ability to generate well-formatted bibliographies and linked citations using [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) by [Sylvester Keil](https://github.com/inukshuk/)
+- Annotations via [hypothes.is](https://hypothes.is/)
+- Automatic table of content generation
 
 
----- 
-- 目前供职于国内领先的智能硬件创新创业平台硬蛋，产品经理+运营   `2014至今`
-
-- 深夜徒步共同发起人   `2015`
-
-- 毕业于中南大学，国家首批卓越工程师培养计划   `2014`
-
-- 韩信手机商城创办人，产品经理    `2012-2014`
-
-- 晒学网创办人，产品经理   `2011`
-	  
----- 
-
-### Copyright
-
-本博客采用 [《署名-非商业性使用-相同方式共享 4.0 国际》][4]进行许可。
-
-[1]:	http://likedew.com
-[2]:	http://weibo.com/dream100fly
-[3]:	http://www.zhihu.com/people/haijin
-[4]:	https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh
-
-[image-1]:	https://raw.githubusercontent.com/hyking/hyking.github.io/master/assets/images/qrcode_for_gh_70dd54811ec5_258.jpg
 
