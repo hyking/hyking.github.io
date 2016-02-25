@@ -1,15 +1,43 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: 关于
+menu: About
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+吴海金
+===
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+#### 概况
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+- 邮箱：wuhaijin@outlook.com
+- 主页：[likedew.com][1]
+- 社交网络：  [微博][2]   [知乎][3]  
+- 个人微信：hykingwu
+- 公众号：likeDew
+![][image-1]
+
+
+---- 
+- 目前供职于国内领先的智能硬件创新创业平台硬蛋，产品经理+运营   `2014至今`
+
+- 深夜徒步共同发起人   `2015`
+
+- 毕业于中南大学，国家首批卓越工程师培养计划   `2014`
+
+- 韩信手机商城创办人，产品经理    `2012-2014`
+
+- 晒学网创办人，产品经理   `2011`
+	  
+---- 
+
+### Copyright
+
+本博客采用 [《署名-非商业性使用-相同方式共享 4.0 国际》][4]进行许可。
+
+[1]:	http://likedew.com
+[2]:	http://weibo.com/dream100fly
+[3]:	http://www.zhihu.com/people/haijin
+[4]:	https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh
+
+[image-1]:	https://raw.githubusercontent.com/hyking/hyking.github.io/master/assets/images/qrcode_for_gh_70dd54811ec5_258.jpg
+
