@@ -14,7 +14,7 @@ menu: About
 - 社交网络：  [微博][2]   [知乎][3]  
 - 个人微信：hykingwu
 - 公众号：likeDew
-![][image-1]
+  ![][image-1]
 
 
 ---- 
