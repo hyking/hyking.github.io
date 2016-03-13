@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #说说邮箱客户端#Acompli转世的iOS版outlook
+title: 说说邮箱客户端，Acompli转世的iOS版outlook
 excerpt: 最大的亮点是将收件箱自动分类
 ---
 Acompli是个很好的邮箱App，被微软收了之后就直接充当Outlook的iOS版了。
