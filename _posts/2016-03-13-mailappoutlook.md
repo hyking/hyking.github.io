@@ -1,7 +1,7 @@
 ---
-layout:post
-title:说说邮箱客户端Acompli转世的iOS版outlook
-excerpt:最大的亮点是将收件箱自动分类
+layout: post
+title: 说说邮箱客户端Acompli转世的iOS版outlook
+excerpt: 最大的亮点是将收件箱自动分类
 ---
 Acompli是个很好的邮箱App，被微软收了之后就直接充当Outlook的iOS版了。
 最大的亮点是将收件箱自动分类，人发来的邮放在首屏呈现（重点），系统发的通知和广告放到第二屏（其他）。
@@ -13,3 +13,4 @@ Acompli是个很好的邮箱App，被微软收了之后就直接充当Outlook的
 ![][image-1]
 
 [image-1]:	https://raw.githubusercontent.com/hyking/hyking.github.io/master/assets/images/IMG_3419.JPG
+
