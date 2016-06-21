@@ -11,5 +11,6 @@ excerpt: 通过外卖平台来做餐饮品牌的时机已经成熟，预计接�
 通过外卖平台来做餐饮品牌的时机已经成熟，预计接下来会涌现出一大批“外卖餐饮品牌”。
 
 
-*[下一篇：《如何如何通过外卖做互联网餐饮品牌》](http://likedew.com/articles/run-a-catering-takeout-brand/ )*
+*[下一篇：《如何如何通过外卖做互联网餐饮品牌》][1]*
 
+[1]:	http://likedew.com/2015/09/20/run-a-catering-takeout-brand.html
